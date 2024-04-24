@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Mods --
+
+-- NFSMW WideScreen Fix (ThirteenAG) --
+
+-- NFSMW Extra Options (nlgxzef) --
+
+-- NFSMW HD Reflections (Aero) --
+
+-- NFSMW HUD Adapter (nlgxzef) --
+
+-- NFSMW HUD Resizer (Aero) --
+
+-- NFSMW Upscaled HUD (LunicAura106) --
+
+-- NFSMW Unlimiter (nlgxzef) --
+
+-- NFSMW Recompiled Vinyls (nlgxzef) --
+
+-- NFSMW Extended Cameras (BadassBaboon) --
+
+-- NFSMW XenonEffects (...) --
+
+-- NFSMW MWFixes (GrimMaple) --
+
+-- NFSMW Revampved Pursuit System (Splash45) --
+
+-- NFSMW Races Fixes (nlgxzef) --
+
+-- NFSMW NIS Scenes Fix (D4emon712) --
+
+-- NFSMW Addon Car Sound Pack (senpaidarken) --
+
+-- NFSMW Memory Files Unlocked (...) --
+
+-- NFSMW Rush Hour Traffic (Splash45) --
+
+-- NFSMW Vinyls Fix (Ariso) --
+
+-- NFSMW Wrecked Mode (Frexellia) --
+
+-- NFSMW Custom HUD (Archie) --
+
+-- NFSMW YTM New Paints (Eevee) --
+
+-- NFSMW Addon Spoiler Pack (WF4123) --
+
+-- NFSMW XNFSModFiles (xan1242) --
+
+-- NFSMW Effects Overhaul (Biri) --
+
+-- NFSMW Custom Plates (Hash) --
+
+-- NFSMW World Neon's Pack (SpeedLiteX) --
+
+-- NFSMW YTM Rim Pack (YochiThMaster333) --
+
+-- NFSMW Wheel Bug Fix (SoundBarrier) --
+
+-- NFSMW Traffic Pack (AJM3899) --
+
+-- NFSMW Realistic Smoke (SoundBarrier) --
+
+-- NFSMW Undercover Pursuit Music (...) --
+
+-- NFSMW HD Content Support (Aero) --
+
+-- NFSMW Custom Barriers (CiPHER) --
+
+-- NFSMW Improved Exhaust Flames (ALi) --
+
+-- Showrooms --
+
+-- Main Menu: Heat (Terminator_Vasya) --
+
+-- Garage: Initial D Arcade Stage (Terminator_Vasya) --
+
+-- Shop: Hot Pursuit Challenges (eModder) --
+
+-- Workshop: Unbound (PAIN) --
+
+-- Junkman Workshop: Unbound (PAIN) --
+
+-- Music --
+
+-- Cars --
+
+-- Acura Integra Type-R (leustean) --
+
+-- Acura NSX (Zvott96) --
+
+-- Acura RSX Type-S (CovRETE37) --
+
+-- Alfa Romeo Disco Volante (Red Fire) --
+
+-- Alfa Romeo Brera (Miles Dipperion) --
+
+-- Alfa Romeo 4C Spider Concept (Rauny_noobexX) --
+
+-- Aston Martin V12 Vantage (Aftrmrket Exotics) --
+
+-- Aston Martin One-77 (Aftrmrket Exotics, WorldUnited.GG, LUNA (WUGG) --
+
+-- Audi R8 V10 (Zyphir) --
+
+-- Audi RS6 (C6) (Aftrmrket Executive) --
+
+-- Bentley Mulliner Bacalar (Thunderdrift) --
+
+-- BMW M3 CSL (EllisRacing) --
+
+-- BMW M3 (E92) (...) --
+
+-- BMW M4 F82 (TheShadowW, Steven CG) --
+
+-- BMW M5 (E60) (Aftrmrket Executive) --
+
+-- BMW M8 Competition (LM1992) --
+
+-- Bugatti Veyron 16.4 Super Sport (Aftrmrket Exotics, WorldUnited.GG, LUNA (WUGG) --
+
+-- Bugatti La Voiture Noire (Aftrmrket Exotics) --
+
+-- Bugatti EB110 Supersport (rybetasz) --
+
+-- Cadillac Escalade (leustean) --
+
+-- Chevrolet Corvette Z06 (C8) (Aftrmrket Exotics) --
+
+-- Chevrolet Chevelle SS 454 (PedroBLR) --
+
+-- Chevrolet Camaro ZL1 (Raverz12345, Eclipse 72rus) --
+
+-- Citroen C2 VTR (Eevee) --
+
+-- Dodge Neon Coupe (leustean) --
+
+-- Eagle Talon TSi AWD (YochiThMaster333) --
+
+-- Ferrari 360 Spyder (...) --
+
+-- Ferrari LaFerrari (Aftrmrket Exotics) --
+
+-- Ferrari F50 (...) --
+
+-- Ferrari F40 (...) --
+
+-- Ford Escort RS Cosworth (Keihin7) --
+
+-- Ford Shelby GT500 Super Snake (Aftrmrket Muscle) --
+
+-- Ford GT (PonySparkle69, Eclipse 72rus) --
+
+-- Ford Focus ZX3 (rybetasz) --
+
+-- Ford Racing Puma (Eevee) --
+
+-- Ford Mustang Boss 429 (Raverz12345, Eclipse 72rus) --
+
+-- Ford SVT Mustang Cobra R (Ark-X Stylizer) --
+
+-- Ford Mustang GT MkVI (...) --
+
+-- Ford F-150 Raptor (...) --
+
+-- GTA Spano (PonySparkle69, Eclipse 72rus) --
+
+-- Honda Civic Si FG2 (Keihin7) --
+
+-- Honda Civic Si (EG6) (RisaDriftR, Vee-Tec) --
+
+-- Honda Accord (Emosen11, rybetasz) --
+
+-- Honda Civic Si (EM1) (Keihin7) --
+
+-- Honda S2000 (...) --
+
+-- Honda Prelude Type SH (BB6) (AJ_Lethal) --
+
+-- Honda NSX (NA1) (...) --
+
+-- HUMMER H2 (rybetasz) --
+
+-- Hyundai Tiburon GT V6 (leustean) --
+
+-- Jaguar C-X75 (Aftrmrket Exotics) --
+
+-- Koenigsegg One:1 (Raverz12345, Eclipse 72rus) --
+
+-- Koenigsegg Regera (RafliCOK, Eclipse72rus) --
+
+-- Lada Samara 2108 (Eevee) --
+
+-- Lamborghini Miura Concept (Keihin7) --
+
+-- Lamborghini Revuelto (Thunderdrift) --
+
+-- Lamborghini Diablo SV (More770) --
+
+-- Lexus LFA (Aftrmrket Exotics) --
+
+-- Lexus SC 300 (AJ_Lethal) --
+
+-- Lincoln Navigator (rybetasz) --
+
+-- Lotus Exige 360 Cup (Aftrmrket Eurosport) --
+
+-- Lotus Emira (JG Blue 1509, Angel_NFSW) --
+
+-- Lotus Elise Sport 190 (Eevee) --
+
+-- Lotus Evija (Eclipse 72rus) --
+
+-- Lotus Exige S 2012 (Raverz12345, ACLambor) --
+
+-- Lotus Esprit V8 (SLZ Roadstar) --
+
+-- Marussia B2 (Raverz12345, ACLambor) --
+
+-- Maserati MC12 (Aftrmrket Exotics) --
+
+-- Mazda RX-7 (Saint Raid) --
+
+-- Mazda Miata (...) --
+
+-- Mazda Savanna RX-7 (FC3S) (AJ_Lethal) --
+
+-- Mazdaspeed RX-8 (...) --
+
+-- McLaren 675LT (Aftrmrket Exotics) --
+
+-- McLaren 765LT (Aftrmrket Exotics) --
+
+-- McLaren F1 (Aftrmrket Exotics) --
+
+-- McLaren Senna (Eclipse72rus) --
+
+-- McLaren P1 (...) --
+
+-- Mercedes-Benz AMG CLK GTR Supersport (Aftrmrket Exotics) --
+
+-- Mercedes Benz G65 AMG (N4SRazer, Eclipse 72rus) --
+
+-- Mitsubishi Lancer Evolution IX MR (CT9A) (REDLINE95, SaberHS, MasterLife, KenjaMago, AndreiK) --
+
+-- Mitsubishi Lancer Evolution X (LM1992) --
+
+-- Mitsubishi PAJERO Rally Raid Car '85 (PedroBLR) --
+
+-- Mitsubishi 3000GT VR-4 (Z16A) (Opex Rah, Ark-X Stylizer) --
+
+-- Nissan Skyline GT-R (R34) (rybetasz) --
+
+-- Nissan 350Z (Z33) (RisaDriftR, Vee-Tec) --
+
+-- Nissan Sentra SE-R Spec-V (rybetasz) --
+
+-- Nissan Z Proto (Eevee) --
+
+-- Nissan GT-R R35 Premium (Rauny_noobexX) --
+
+-- Nissan 180SX Type X (...) --
+
+-- Nissan 200SX (S14a) (...) --
+
+-- Nissan 240SX SE (Rauny_noobexX) --
+
+-- Nissan Silvia S13 (N4SRazer, Eclipse 72rus) --
+
+-- Opel Speedster (...) --
+
+-- Pagani Zonda C12 S 7.3 (Aftrmrket Exotics) --
+
+-- Pagani Zonda Cinque (Aftrmrket Exotics) --
+
+-- Peugeot 206 GTi (leustean) --
+
+-- Polestar 1 (N4SRazer, RafliCOK) --
+
+-- Porsche Boxster S (986) (AJ_Lethal) --
+
+-- Porsche 918 Spyder (...) --
+
+-- Porsche 911 Turbo S (...) --
+
+-- Renault R.S Sport 01 (LM1992) --
+
+-- Scion tC (Steven CG, Riverflo, TheShadowR) --
+
+-- Subaru BRZ Premium (LM1992, gl4disme) --
+
+-- Subaru Impreza 22B STi (Aftrmrket Imports) --
+
+-- Toyota GR Supra (Steven CG, TheShadowR, eModder) --
+
+-- Toyota Corolla GT-S (AE88) (AJ_Lethal) --
+
+-- Toyota Celica GT-S (...) --
+
+-- UAZ 3909 (...) --
+
+-- Volkswagen Golf Cabriolet (Eevee) --
+
+-- Volkswagen W12 Nardo Concept (...) --
+
+-- Police Cars --
+
+-- Heat 1: ... --
+
+-- Heat 2: ... --
+
+-- Heat 3: ... --
+
+-- Heat 4: ... --
+
+-- Heat 5: ... --
+
+-- Heat 6: ... --
+
+-- Mini SUV: ... --
+
+-- SUV: ... --
+
+-- Helicopter: ... --
+
+-- Textures --
+
+-- Hot Pursuit Challenges (elaymm4, Alex Ka., Ariso, r033, SRK) --
+
+-- Retex (CiPHER) --
+
+-- Plak Graphics (osdever) --
+
+-- Programs --
+
+-- NFSMW Music Importer (nlgxzef) --
+
+-- NFSMW Attrib Loader (osdever) --
+
+-- NFSMW Shader Loader (...) --
+
+-- 4GB Patch (NTCore) --
+
+-- NFS VLT-Ed (nfsu360) --
+
+-- NFS Tex-Ed (nfsu360) --
+
+-- NFS Ed-Car (nlgxzef) --
+
+-- Binary (MaxHwoy) --
+
+-- SATEditor (nlgxzef) --
+
+-- RockportEd (...) --
+
+-- EA VP6 Recorder (SpeedyHeart) --
+
+-- Phone Call and Cop Speech Importer (Zyphir) --
+
+-- Fonts --
+
+-- Eurostile LT Fonts --
+
+-- All Rights Reserved, Lemon Gang, 2023-2024 --

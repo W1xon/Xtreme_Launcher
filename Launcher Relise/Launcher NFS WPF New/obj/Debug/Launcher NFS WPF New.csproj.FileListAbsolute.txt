@@ -1,0 +1,504 @@
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.exe.config
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.exe
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.pdb
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\CommonServiceLocator.dll
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.AssemblyReference.cache
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ButtonStyle.baml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\AuthorPage.g.cs
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\MainWindow.g.cs
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\PlayPage.g.cs
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\App.g.cs
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New_MarkupCompile.cache
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New_MarkupCompile.lref
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\AuthorPage.baml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\MainWindow.baml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\PlayPage.baml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.g.resources
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Resources.resources
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.GenerateResource.cache
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CoreCompileInputs.cache
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CopyComplete
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.exe
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.pdb
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.g.cs
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.baml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ComboBoxStyle.baml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ToolTipStyle.baml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.g.cs
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.baml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\App.baml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\DictionaryColor.baml
+C:\Users\Wixon\source\repos\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorOne.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.exe.config
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.exe
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.pdb
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\CommonServiceLocator.dll
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\System.Windows.Interactivity.dll
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ButtonStyle.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ComboBoxStyle.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\DictionaryColor.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ToolTipStyle.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\AuthorPage.g.cs
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\MainWindow.g.cs
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\PlayPage.g.cs
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.g.cs
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.g.cs
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\App.g.cs
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New_MarkupCompile.cache
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New_MarkupCompile.lref
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\App.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\AuthorPage.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\MainWindow.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\PlayPage.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.g.resources
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Resources.resources
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.GenerateResource.cache
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CoreCompileInputs.cache
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CopyComplete
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.exe
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.pdb
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDay.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorNight.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDark.baml
+D:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.AssemblyReference.cache
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.exe.config
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.exe
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.pdb
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\CommonServiceLocator.dll
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.dll
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\System.Windows.Interactivity.dll
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.xml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.AssemblyReference.cache
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ButtonStyle.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ComboBoxStyle.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\DictionaryColor.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDay.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDark.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorNight.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ToolTipStyle.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\AuthorPage.g.cs
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\MainWindow.g.cs
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\PlayPage.g.cs
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.g.cs
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.g.cs
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\App.g.cs
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New_MarkupCompile.cache
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New_MarkupCompile.lref
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\App.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\AuthorPage.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\MainWindow.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\PlayPage.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.baml
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.g.resources
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Resources.resources
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.GenerateResource.cache
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CoreCompileInputs.cache
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CopyComplete
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.exe
+E:\Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.pdb
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.exe.config
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.exe
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\Launcher NFS WPF New.pdb
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\CommonServiceLocator.dll
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.dll
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\System.Windows.Interactivity.dll
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.xml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.AssemblyReference.cache
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ButtonStyle.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ComboBoxStyle.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\DictionaryColor.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDay.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDark.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorNight.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\ToolTipStyle.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\AuthorPage.g.cs
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\MainWindow.g.cs
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\PlayPage.g.cs
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.g.cs
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.g.cs
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\App.g.cs
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New_MarkupCompile.cache
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New_MarkupCompile.lref
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\App.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\AuthorPage.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\MainWindow.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\PlayPage.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.baml
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.g.resources
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Resources.resources
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.GenerateResource.cache
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CoreCompileInputs.cache
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CopyComplete
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.exe
+E:\1Launcher NFS WPF New\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.pdb
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\BtnClick.wav
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\PlayGame.wav
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.exe.config
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.exe
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.pdb
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\en\Speed Champions Launcher.resources.dll
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\CommonServiceLocator.dll
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.AssemblyReference.cache
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ButtonStyle.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ComboBoxStyle.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\DictionaryColor.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDay.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDark.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorNight.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ToolTipStyle.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\AuthorPage.g.cs
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MainWindow.g.cs
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MessageWindow.g.cs
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\PlayPage.g.cs
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.g.cs
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.g.cs
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\App.g.cs
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_Content.g.cs
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_MarkupCompile.cache
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_MarkupCompile.lref
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\App.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\AuthorPage.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MainWindow.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MessageWindow.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\PlayPage.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.baml
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.g.resources
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Langs.Lang.resources
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Resources.resources
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Langs.Lang.en.resources
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.GenerateResource.cache
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CoreCompileInputs.cache
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\en\Speed Champions Launcher.resources.dll
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CopyComplete
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.exe
+C:\Users\Wixon\OneDrive\Рабочий стол\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.pdb
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\BtnClick.wav
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\PlayGame.wav
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.exe.config
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.exe
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.pdb
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\en\Speed Champions Launcher.resources.dll
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\CommonServiceLocator.dll
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\System.Windows.Interactivity.dll
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ButtonStyle.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ComboBoxStyle.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\DictionaryColor.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDay.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDark.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorNight.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ToolTipStyle.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\AuthorPage.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MainWindow.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MessageWindow.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\PlayPage.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\App.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_Content.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_MarkupCompile.cache
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_MarkupCompile.lref
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\App.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\AuthorPage.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MainWindow.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MessageWindow.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\PlayPage.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.g.resources
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Langs.Lang.resources
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Resources.resources
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Langs.Lang.en.resources
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.GenerateResource.cache
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CoreCompileInputs.cache
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\en\Speed Champions Launcher.resources.dll
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.exe
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.pdb
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\UpdatePage.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\UpdatePage.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ResourcesWindow.g.cs
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ResourcesWindow.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\ResList.txt
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorGreen.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorBlue.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSciFi.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSteam.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSpotify.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorPhub.baml
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\PhubClick.wav
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.avi
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.mp4
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.wmv
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\ResList.txt
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\BtnClick.wav
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\PhubClick.wav
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\PlayGame.wav
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.avi
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.mp4
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.wmv
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.exe.config
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.exe
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.pdb
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\en\Speed Champions Launcher.resources.dll
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\CommonServiceLocator.dll
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.dll
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\System.Windows.Interactivity.dll
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.xml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ButtonStyle.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ComboBoxStyle.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\DictionaryColor.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSpotify.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorPhub.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSteam.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSciFi.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDay.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDark.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorBlue.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorGreen.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorNight.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ToolTipStyle.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\AuthorPage.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MainWindow.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MessageWindow.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\PlayPage.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ResourcesWindow.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\UpdatePage.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\App.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_Content.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_MarkupCompile.cache
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_MarkupCompile.lref
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\App.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\AuthorPage.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MainWindow.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MessageWindow.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\PlayPage.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ResourcesWindow.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\UpdatePage.baml
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.g.resources
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Langs.Lang.resources
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Resources.resources
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Langs.Lang.en.resources
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.GenerateResource.cache
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CoreCompileInputs.cache
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\en\Speed Champions Launcher.resources.dll
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.exe
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.pdb
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\ResList.txt
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\BtnClick.wav
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\PhubClick.wav
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\PlayGame.wav
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.avi
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.mp4
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.wmv
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.exe.config
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.exe
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.pdb
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\en\Speed Champions Launcher.resources.dll
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\CommonServiceLocator.dll
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ButtonStyle.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ComboBoxStyle.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\DictionaryColor.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSpotify.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorPhub.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSteam.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSciFi.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDay.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDark.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorBlue.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorGreen.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorNight.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ToolTipStyle.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\AuthorPage.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MainWindow.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MessageWindow.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\PlayPage.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ResourcesWindow.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\UpdatePage.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\App.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_Content.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_MarkupCompile.cache
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_MarkupCompile.lref
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\App.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\AuthorPage.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MainWindow.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MessageWindow.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\PlayPage.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ResourcesWindow.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\UpdatePage.baml
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.g.resources
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Langs.Lang.resources
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Resources.resources
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Langs.Lang.en.resources
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\en\Speed Champions Launcher.resources.dll
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher.812A089D.Up2Date
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.exe
+C:\Users\vladi\source\repos\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.pdb
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\ResList.txt
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\BtnClick.wav
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\PhubClick.wav
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\PlayGame.wav
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.avi
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.mp4
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\1.wmv
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.exe.config
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.exe
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\Speed Champions Launcher.pdb
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\en\Speed Champions Launcher.resources.dll
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\CommonServiceLocator.dll
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.dll
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\System.Windows.Interactivity.dll
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.xml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.AssemblyReference.cache
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ButtonStyle.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ComboBoxStyle.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\DictionaryColor.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSpotify.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorPhub.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSteam.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorSciFi.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDay.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorDark.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorBlue.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorGreen.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\Res\DictionaryColors\DictionaryColorNight.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ToolTipStyle.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\AuthorPage.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MainWindow.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MessageWindow.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\PlayPage.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ResourcesWindow.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\UpdatePage.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\App.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_Content.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_MarkupCompile.cache
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher_MarkupCompile.lref
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\App.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\AuthorPage.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MainWindow.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\MessageWindow.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\PlayPage.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\ResourcesWindow.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsGamePage.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\SettingsLauncherPage.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\View\UpdatePage.baml
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.g.resources
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Langs.Lang.resources
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Resources.resources
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher_NFS_WPF_New.Properties.Langs.Lang.en.resources
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.GenerateResource.cache
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CoreCompileInputs.cache
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\en\Speed Champions Launcher.resources.dll
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher.812A089D.Up2Date
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.exe
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\obj\Debug\Speed Champions Launcher.pdb
+E:\Launchers\1\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\Enot.mp4
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\Enot.mp4
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\Background.mp4
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\Background.mp4
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\bin\Debug\View\Res\Video\Enot.mp4
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csprojAssemblyReference.cache
+D:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CopyComplete
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csprojAssemblyReference.cache
+E:\Launchers\Launcher Relise\Launcher NFS WPF New\obj\Debug\Launcher NFS WPF New.csproj.CopyComplete

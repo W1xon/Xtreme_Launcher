@@ -1,0 +1,192 @@
+﻿<Page
+    x:Class="Launcher_NFS_WPF_New.View.AuthorPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:language="clr-namespace:Launcher_NFS_WPF_New.Properties.Langs"
+    xmlns:local="clr-namespace:Launcher_NFS_WPF_New.View"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="AuthorPage"
+    d:DesignHeight="500"
+    d:DesignWidth="720"
+    mc:Ignorable="d">
+
+
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ButtonStyle.xaml" />
+                <ResourceDictionary Source="ToolTipStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+
+    <Grid>
+        <Border>
+            <Border.CornerRadius>
+                <CornerRadius BottomLeft="15" BottomRight="15" />
+            </Border.CornerRadius>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Image
+                    Grid.RowSpan="2"
+                    Grid.ColumnSpan="2"
+                    Source="res/Backgrounds/PlayPage.png"
+                    Stretch="Fill" />
+                <Border Grid.Column="1">
+                    <Border.CornerRadius>
+                        <CornerRadius BottomRight="15" />
+                    </Border.CornerRadius>
+
+                    <Border.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Offset="0" Color="{DynamicResource PagesBackgroundGradientColorOne}" />
+                            <GradientStop Offset="1" Color="{DynamicResource PagesBackgroundGradientColorTwo}" />
+                        </LinearGradientBrush>
+                    </Border.Background>
+
+                    <Grid Margin="0,30,0,0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="120" />
+                            <RowDefinition Height="40" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="70" />
+                        </Grid.RowDefinitions>
+
+
+                        <TextBlock
+                            Grid.Row="0"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            FontFamily="Res/Fonts/Inter-ExtraLight.otf#Inter"
+                            FontSize="40"
+                            Foreground="{DynamicResource TextColorSCB}"
+                            Text="{x:Static language:Lang.authorAboutTitle}"
+                            TextAlignment="Center"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="1"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            FontFamily="Res/Fonts/Inter-ExtraLight.otf#Inter"
+                            FontSize="13"
+                            Foreground="{DynamicResource TextColorSCB}"
+                            Text="{x:Static language:Lang.authorAbout}"
+                            TextAlignment="Center"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="2"
+                            Grid.RowSpan="2"
+                            Margin="0,20,0,0"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            FontFamily="Res/Fonts/Inter-ExtraLight.otf#Inter"
+                            FontSize="40"
+                            Foreground="{DynamicResource TextColorSCB}"
+                            Text="{x:Static language:Lang.authorThanksTitle}"
+                            TextAlignment="Center"
+                            TextWrapping="Wrap" />
+
+                        <TextBlock
+                            Grid.Row="3"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            FontFamily="Res/Fonts/Inter-ExtraLight.otf#Inter"
+                            FontSize="13"
+                            Foreground="{DynamicResource TextColorSCB}"
+                            Text="{x:Static language:Lang.authorThanks}"
+                            TextAlignment="Center"
+                            TextWrapping="Wrap" />
+
+                        <StackPanel
+                            Grid.Row="4"
+                            Margin="10,0,10,0"
+                            HorizontalAlignment="Center"
+                            Orientation="Horizontal">
+                            <StackPanel >
+                                <Button
+                                    Width="130"
+                                    Height="50"
+                                    Margin="10"
+                                    Click="BtnResource_Click"
+                                    Name="BtnResource"
+                                    Content="{x:Static language:Lang.authorRes}"
+                                    FontFamily="Res/Fonts/Inter-ExtraLight.otf#Inter"
+                                    Style="{DynamicResource SettingsButton}" />
+                            </StackPanel>
+
+
+                            <Button Click="ButtonOpenURLCWVK_Click" Template="{DynamicResource ChannelButton}">
+                                <Button.ToolTip>
+                                    <ToolTip Style="{DynamicResource ToolTipQR}">
+                                        <Image
+                                            Width="150"
+                                            Height="150"
+                                            Source="res/icons/QR_Codes/qr_CoderWorkerVK.png" />
+                                    </ToolTip>
+                                </Button.ToolTip>
+                                <Button.Resources>
+                                    <ImageSource x:Key="Img">res/icons/VK.png</ImageSource>
+                                </Button.Resources>
+                            </Button>
+
+                            <Button Click="ButtonOpenURLONMYouTube_Click" Template="{DynamicResource ChannelButton}">
+                                <Button.ToolTip>
+                                    <ToolTip Style="{DynamicResource ToolTipQR}">
+                                        <Image
+                                            Width="150"
+                                            Height="150"
+                                            Source="res/icons/QR_Codes/qr_Adrenaline.png" />
+                                    </ToolTip>
+                                </Button.ToolTip>
+                                <Button.Resources>
+                                    <ImageSource x:Key="Img">res/icons/YouTube.png</ImageSource>
+                                </Button.Resources>
+                            </Button>
+
+
+
+                            <Button Click="ButtonOpenURLCWTelegram_Click" Template="{DynamicResource ChannelButton}">
+                                <Button.ToolTip>
+                                    <ToolTip Style="{DynamicResource ToolTipQR}">
+                                        <Image
+                                            Width="150"
+                                            Height="150"
+                                            Source="res/icons/QR_Codes/qr_CoderWorker.png" />
+                                    </ToolTip>
+                                </Button.ToolTip>
+                                <Button.Resources>
+                                    <ImageSource x:Key="Img">res/icons/QR_CoderWorker.png</ImageSource>
+                                </Button.Resources>
+                            </Button>
+
+
+                            <Button Click="ButtonOpenURLONMTelegram_Click" Template="{DynamicResource ChannelButton}">
+                                <Button.ToolTip>
+                                    <ToolTip Style="{DynamicResource ToolTipQR}">
+                                        <Image
+                                            Width="150"
+                                            Height="150"
+                                            Source="res/icons/QR_Codes/qr_SPeedChampions.png" />
+                                    </ToolTip>
+                                </Button.ToolTip>
+                                <Button.Resources>
+                                    <ImageSource x:Key="Img">res/icons/QR_SpeedChampions.png</ImageSource>
+                                </Button.Resources>
+                            </Button>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+
+            </Grid>
+        </Border>
+    </Grid>
+</Page>

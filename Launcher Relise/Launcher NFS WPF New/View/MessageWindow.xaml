@@ -1,0 +1,76 @@
+﻿<Window
+    x:Class="Launcher_NFS_WPF_New.View.MessageWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:language="clr-namespace:Launcher_NFS_WPF_New.Properties.Langs"
+    xmlns:local="clr-namespace:Launcher_NFS_WPF_New.View"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MessageWindow"
+    Width="400"
+    Height="200"
+    AllowsTransparency="True"
+    Background="Transparent"
+    ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    mc:Ignorable="d">
+    <Grid>
+        <Border CornerRadius="15">
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientStop Offset="0" Color="{DynamicResource BackgroundGradientColorOne}" />
+                    <GradientStop Offset="1" Color="{DynamicResource BackgroundGradientColorTwo}" />
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40" />
+                    <RowDefinition />
+                    <RowDefinition Height="40" />
+                </Grid.RowDefinitions>
+                <!--  Верхний текст  -->
+                <Grid Grid.ColumnSpan="2">
+                    <Border
+                        Background="{DynamicResource TitleBackgroundColorSCB}"
+                        BorderBrush="{DynamicResource LineBorderColorSCB}"
+                        BorderThickness="0,0,0,2"
+                        Opacity="0.7">
+                        <Border.CornerRadius>
+                            <CornerRadius TopLeft="15" TopRight="15" />
+                        </Border.CornerRadius>
+                        <Label
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Content="{x:Static language:Lang.changeLanguageTitle}"
+                            FontFamily="Res/Fonts/ljk_Adventure.ttf#Adventure(RUS BY LYAJKA)"
+                            FontSize="20"
+                            Foreground="{DynamicResource TextTitleColorSCB}" />
+                    </Border>
+                </Grid>
+
+                <TextBlock
+                    x:Name="TextWarning"
+                    Grid.Row="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    FontFamily="Res/Fonts/ljk_Adventure.ttf#Adventure(RUS BY LYAJKA)"
+                    FontSize="20"
+                    Foreground="{DynamicResource TextColorSCB}"
+                    Text="{x:Static language:Lang.changeLanguage}"
+                    TextWrapping="Wrap" />
+                <Button
+                    Grid.Row="3"
+                    Grid.Column="0"
+                    Width="100"
+                    Height="30"
+                    HorizontalAlignment="Center"
+                    Click="ButtonClose_Click"
+                    Content="Ok"
+                    FontSize="20"
+                    Foreground="{DynamicResource TextColorSCB}"
+                    Style="{DynamicResource SettingsButton}" />
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
