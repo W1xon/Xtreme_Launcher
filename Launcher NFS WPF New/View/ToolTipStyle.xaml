@@ -1,0 +1,78 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+
+    <Style x:Key="ToolTipSettings" TargetType="ToolTip">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ToolTip">
+                    <Grid Width="200">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="5" />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Path Grid.Column="0" VerticalAlignment="Center">
+
+                            <Path.Stroke>
+                                <SolidColorBrush Color="{DynamicResource ToolTipArrowBorderColor}" />
+                            </Path.Stroke>
+
+                            <Path.StrokeThickness>1</Path.StrokeThickness>
+
+                            <Path.Fill>
+                                <LinearGradientBrush>
+                                    <GradientStop Offset="0" Color="{DynamicResource ToolTipArrowBackgroundGradientColorOne}" />
+                                    <GradientStop Offset="1" Color="{DynamicResource ToolTipArrowBackgroundGradientColorTwo}" />
+                                </LinearGradientBrush>
+                            </Path.Fill>
+                            <Path.Data>
+                                <PathGeometry>
+                                    <PathFigure StartPoint="5,5">
+                                        <LineSegment Point="0,0" />
+                                        <LineSegment Point="5,-5" />
+                                    </PathFigure>
+                                </PathGeometry>
+                            </Path.Data>
+                        </Path>
+
+                        <Border
+                            Grid.Column="1"
+                            MinHeight="60"
+                            BorderBrush="{DynamicResource ToolTipBorderColorSCB}"
+                            BorderThickness="1">
+                            <Border.Background>
+                                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5, 1">
+                                    <GradientStop Offset="0" Color="{DynamicResource ToolTipBackgroundGradientColorOne}" />
+                                    <GradientStop Offset="1" Color="{DynamicResource ToolTipBackgroundGradientColorTwo}" />
+                                </LinearGradientBrush>
+                            </Border.Background>
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                FontSize="15"
+                                Foreground="{DynamicResource ToolTipTextColorSCB}"
+                                Text="{TemplateBinding Content}"
+                                TextAlignment="Center"
+                                TextWrapping="Wrap" />
+                        </Border>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="ToolTipQR" TargetType="ToolTip">
+        <Setter Property="Placement" Value="Top" />
+        <Setter Property="HorizontalAlignment" Value="Center" />
+        <Setter Property="VerticalAlignment" Value="Center" />
+        <Setter Property="HorizontalOffset" Value="-35" />
+        <Setter Property="Background">
+            <Setter.Value>
+                <LinearGradientBrush>
+                    <GradientStop Offset="0.0" Color="{DynamicResource ToolTipQRBackgroundGradientOne}" />
+                    <GradientStop Offset="1.0" Color="{DynamicResource ToolTipQRBackgroundGradientTwo}" />
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

@@ -1,0 +1,98 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--  Цвета для текста  -->
+    <SolidColorBrush x:Key="TextColorSCB">#D1D5DA</SolidColorBrush>
+    <SolidColorBrush x:Key="TextTitleColorSCB">#D1D5DA</SolidColorBrush>
+    <SolidColorBrush x:Key="TextSettingsPageHeaderColorSCB">#0366D6</SolidColorBrush>
+    <SolidColorBrush x:Key="TextListResourceColorSCB">#D1D5DA</SolidColorBrush>
+    <Color x:Key="TextListResourceLeaveColor">#D1D5DA</Color>
+    <Color x:Key="TextListResourceEnterColor">#0366D6</Color>
+
+    <!--  Цвета для кнопок  -->
+    <!--  ButtonPlay  -->
+    <Color x:Key="ButtonPlayOverBackgroundColor">#24292E</Color>
+    <Color x:Key="ButtonPlayLeaveBackgroundColor">#2EA44F</Color>
+    <SolidColorBrush x:Key="ButtonPlayBackgroundColorSCB">#2EA44F</SolidColorBrush>
+    <SolidColorBrush x:Key="ButtonPlayTextColorSCB">#D1D5DA</SolidColorBrush>
+    <Color x:Key="ButtonPlayOverTextColor">#0366D6</Color>
+    <Color x:Key="ButtonPlayLeaveTextColor">#D1D5DA</Color>
+
+    <!--  ButtonSide  -->
+    <SolidColorBrush x:Key="ButtonSideOverColorSCB">#0366D6</SolidColorBrush>
+    <SolidColorBrush x:Key="ButtonSideLeaveColorSCB">#D1D5DA</SolidColorBrush>
+    <SolidColorBrush x:Key="ButtonSideSelectionColorSCB">#24292E</SolidColorBrush>
+    <SolidColorBrush x:Key="ButtonSideFocusedTextColorSCB">#0366D6</SolidColorBrush>
+    <SolidColorBrush x:Key="ButtonSideUnfocusedTextColorSCB">#D1D5DA</SolidColorBrush>
+
+    <!--  Button  -->
+    <SolidColorBrush x:Key="ButtonTextColorSCB">#D1D5DA</SolidColorBrush>
+    <Color x:Key="ButtonOverTextColor">#0366D6</Color>
+    <Color x:Key="ButtonLeaveTextColor">#D1D5DA</Color>
+    <SolidColorBrush x:Key="ButtonBackgroundColorSCB">#24292E</SolidColorBrush>
+    <Color x:Key="ButtonShadowEffectColor">#1B1F23</Color>
+
+    <!--  Цвета для ComboBox  -->
+    <!--  ComboBox  -->
+    <Color x:Key="ComboBoxLeaveBackgroundGradientColorOne">#24292E</Color>
+    <Color x:Key="ComboBoxLeaveBackgroundGradientColorTwo">#1B1F23</Color>
+    <Color x:Key="ComboBoxOverColorGradientColorOne">#0366D6</Color>
+    <Color x:Key="ComboBoxOverColorGradientColorTwo">#24292E</Color>
+    <SolidColorBrush x:Key="ComboBoxTextColorSCB">#0366D6</SolidColorBrush>
+    <SolidColorBrush x:Key="ComboBoxBorderColorSCB">#6A7684</SolidColorBrush>
+    <Color x:Key="ComboBoxLeaveBorderColor">#6A7684</Color>
+    <Color x:Key="ComboBoxOverBorderColor">#0366D6</Color>
+    <Color x:Key="ComboBoxLeaveToggleButtonColor">#6A7684</Color>
+    <Color x:Key="ComboBoxOverToggleButtonColor">#0366D6</Color>
+
+    <!--  ComboBoxItem  -->
+    <Color x:Key="ComboBoxItemBackgroundGradientColorOne">#24292E</Color>
+    <Color x:Key="ComboBoxItemBackgroundGradientColorTwo">#1B1F23</Color>
+    <SolidColorBrush x:Key="ComboBoxItemBorderColorSCB">#6A7684</SolidColorBrush>
+    <SolidColorBrush x:Key="ComboBoxItemSelectionColorSCB">#24292E</SolidColorBrush>
+    <SolidColorBrush x:Key="ComboBoxItemTextColorSCB">#0366D6</SolidColorBrush>
+
+    <!--  ToolTip  -->
+    <Color x:Key="ToolTipBackgroundGradientColorOne">#24292E</Color>
+    <Color x:Key="ToolTipBackgroundGradientColorTwo">#1B1F23</Color>
+    <SolidColorBrush x:Key="ToolTipBorderColorSCB">#6A7684</SolidColorBrush>
+    <SolidColorBrush x:Key="ToolTipTextColorSCB">#0366D6</SolidColorBrush>
+    <Color x:Key="ToolTipQRBackgroundGradientOne">#FF130E27</Color>
+    <Color x:Key="ToolTipQRBackgroundGradientTwo">#FF130E31</Color>
+
+    <!--  ToolTip Arrow  -->
+    <Color x:Key="ToolTipArrowBackgroundGradientColorOne">#24292E</Color>
+    <Color x:Key="ToolTipArrowBackgroundGradientColorTwo">#1B1F23</Color>
+    <Color x:Key="ToolTipArrowBorderColor">#6A7684</Color>
+
+    <!--  Боковая панель  -->
+    <Color x:Key="SidePanelBackgroundGradientColorOne">#1B1F23</Color>
+    <Color x:Key="SidePanelBackgroundGradientColorTwo">#24292E</Color>
+
+    <!--  Верхний заголовок  -->
+    <SolidColorBrush x:Key="TitleBackgroundColorSCB">#AA1B1F23</SolidColorBrush>
+    <Color x:Key="TitleBackgroundGradientColorOne">#99000000</Color>
+    <Color x:Key="TitleBackgroundGradientColorTwo">#99FFFFFF</Color>
+
+    <!--  Панель выбора пути игры  -->
+    <Color x:Key="PathSelectionBackgroundGradientColorOne">#AA000000</Color>
+    <Color x:Key="PathSelectionBackgroundGradientColorTwo">#AAFFFFFF</Color>
+
+    <!--  Страница  -->
+    <Color x:Key="PagesBackgroundGradientColorOne">#AA24292E</Color>
+    <Color x:Key="PagesBackgroundGradientColorTwo">#AA1B1F23</Color>
+
+    <!--  Страница ресурсов  -->
+    <Color x:Key="WindowResourceBackgroundGradientColorOne">#CC24292E</Color>
+    <Color x:Key="WindowResourceBackgroundGradientColorTwo">#CC1B1F23</Color>
+
+    <!--  Линия разделитель  -->
+    <SolidColorBrush x:Key="LineBorderColorSCB">#6A7684</SolidColorBrush>
+
+    <!--  Окно сообщения  -->
+    <Color x:Key="BackgroundGradientColorOne">#DD000000</Color>
+    <Color x:Key="BackgroundGradientColorTwo">#FFFFFFFF</Color>
+
+    <!--  Прогресс бар  -->
+    <SolidColorBrush x:Key="BackgroundProgressBarColorSCB">#24292E</SolidColorBrush>
+    <SolidColorBrush x:Key="ForegroundProgressBarColorSCB">#D1D5DA</SolidColorBrush>
+
+</ResourceDictionary>

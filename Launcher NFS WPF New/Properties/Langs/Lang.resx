@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdditionalPostEffects" xml:space="preserve">
+    <value>Симулирует эффект капель дождя на экране.</value>
+  </data>
+  <data name="AntiAliasing" xml:space="preserve">
+    <value>Сглаживание - это техника, используемая для устранения ступенчатых краев на объектах.",
+"Фильтрация текстур управляет тем, как 2D изображение (текстура) отображается на 3D модели, увеличивая четкость поверхности на расстоянии</value>
+  </data>
+  <data name="authorAbout" xml:space="preserve">
+    <value>Привет! Мы — два друга, обожаем Need for Speed, поэтому 🍋 Lemon Gang Corner 💿 создал мод Xtreme Terrex, а лаунчер — дело рук «Кодерские работы». Если вам нравятся наши проекты, будем рады вашим подпискам.</value>
+  </data>
+  <data name="authorAboutTitle" xml:space="preserve">
+    <value>О нас</value>
+  </data>
+  <data name="authorRes" xml:space="preserve">
+    <value>Используемые ресурсы</value>
+  </data>
+  <data name="authorThanks" xml:space="preserve">
+    <value>Этот мод мы сделали с любовью и для фана. Ваши идеи и предложения — это топливо для нас, чтобы делать мод и лаунчер ещё круче. Пишите нам, делитесь мыслями в наших официальных каналах, давайте вместе прокачаем игру! С любовью, команда энтузиастов ❤️</value>
+  </data>
+  <data name="authorThanksTitle" xml:space="preserve">
+    <value>Спасибо, что вы с нами!</value>
+  </data>
+  <data name="authorView" xml:space="preserve">
+    <value>Просмотреть</value>
+  </data>
+  <data name="CarGeometryDetail" xml:space="preserve">
+    <value>Управляет уровнем детализации мира, отражаемого в отражениях транспортных средств.</value>
+  </data>
+  <data name="CarReflectionDetail" xml:space="preserve">
+    <value>Регулирует частоту обновления отражения транспортного средства.</value>
+  </data>
+  <data name="CarReflectionResolutionScale" xml:space="preserve">
+    <value>Определяет количество деталей мира, отражаемых в отражениях дороги.</value>
+  </data>
+  <data name="CarReflectionUpdateRate" xml:space="preserve">
+    <value>Управляет четкостью отражения транспортного средства.</value>
+  </data>
+  <data name="changeLanguage" xml:space="preserve">
+    <value>Вы только что произвели изменения в языковых настройках, лаунчер перезапустится.</value>
+  </data>
+  <data name="changeLanguageTitle" xml:space="preserve">
+    <value>Вы изменили язык</value>
+  </data>
+  <data name="checkUpdate" xml:space="preserve">
+    <value>Проверить наличие обновлений</value>
+  </data>
+  <data name="CutscenesAspectRatio" xml:space="preserve">
+    <value>Эта опция определяет соотношение сторон, в котором будут отображаться видеоролики на экране. Если у вас возникли проблемы с обрезанием видеороликов, отрегулируйте эту опцию.</value>
+  </data>
+  <data name="DynamicShadows" xml:space="preserve">
+    <value>Задает качество и реализм отражений.</value>
+  </data>
+  <data name="DynamicShadowsResolution" xml:space="preserve">
+    <value>Определяет, включены ли динамические тени в реальном времени, соответствующие углу солнца. Включение частичных динамических теней распространяет этот эффект на подвижные объекты, такие как транспортные средства и объекты окружающего мира. Выбор любой опции, кроме 'Включено', будет использовать статические тени, созданные заранее.</value>
+  </data>
+  <data name="GameControllerSupport" xml:space="preserve">
+    <value>Включает поддержку контроллера, который вы хотите использовать.</value>
+  </data>
+  <data name="GameDifficulty" xml:space="preserve">
+    <value>Если у вас есть фоточувствительность, эта опция заменит видеоролики версиями, не содержащими ярких вспышек. Кроме того, здесь нет авторских прав на музыку, поэтому ее можно использовать для потокового воспроизведения или загрузки на видеоплатформы, такие как YouTube.</value>
+  </data>
+  <data name="gameStart" xml:space="preserve">
+    <value>Play</value>
+  </data>
+  <data name="GeneralReflectionDetail" xml:space="preserve">
+    <value>Управляет четкостью изображения в зеркале заднего вида.</value>
+  </data>
+  <data name="incorretPathMessage" xml:space="preserve">
+    <value>Выбранный вами путь был неправельным повторите попытку.</value>
+  </data>
+  <data name="incorretPathTitle" xml:space="preserve">
+    <value>Неверный путь</value>
+  </data>
+  <data name="infoLoadTextFiles" xml:space="preserve">
+    <value>Файлы</value>
+  </data>
+  <data name="infoLoadTextLoaded" xml:space="preserve">
+    <value>Загружено</value>
+  </data>
+  <data name="infoLoadTextProgress" xml:space="preserve">
+    <value>Прогресс</value>
+  </data>
+  <data name="MirrorReflectionDetail" xml:space="preserve">
+    <value>Управляет четкостью отражений дороги.</value>
+  </data>
+  <data name="MirrorReflectionResolutionScale" xml:space="preserve">
+    <value>Определяет количество деталей мира, видимых в зеркале заднего вида.</value>
+  </data>
+  <data name="networkDownload" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="networkErrorMessage" xml:space="preserve">
+    <value>У вас отсутствует интернет подключение. Проверьте доступ к сети интернет.</value>
+  </data>
+  <data name="networkErrorTitle" xml:space="preserve">
+    <value>Ошибка сети</value>
+  </data>
+  <data name="networkInstallation" xml:space="preserve">
+    <value>Installation</value>
+  </data>
+  <data name="networkLoading" xml:space="preserve">
+    <value>Загрузка</value>
+  </data>
+  <data name="networkNoUpdates" xml:space="preserve">
+    <value>Нет обновлений</value>
+  </data>
+  <data name="networkThereIsAnUpdate" xml:space="preserve">
+    <value>Есть обновления. Версия</value>
+  </data>
+  <data name="networkUpdateInstalled" xml:space="preserve">
+    <value>У вас установлена самая новая версия игры</value>
+  </data>
+  <data name="play" xml:space="preserve">
+    <value>Играть</value>
+  </data>
+  <data name="RainEffect" xml:space="preserve">
+    <value>Управляет уровнем детализации теней.</value>
+  </data>
+  <data name="RearviewMirrorForAllCarCameraViews" xml:space="preserve">
+    <value>Вводит незаметные кинематографические эффекты, такие как свечение, зерно пленки, виньетирование, хроматическая аберрация и коррекция уровней изображения.</value>
+  </data>
+  <data name="resourcesListTitle" xml:space="preserve">
+    <value>Используемые ресурсы</value>
+  </data>
+  <data name="resultUpdate" xml:space="preserve">
+    <value>Обновлений не найдено</value>
+  </data>
+  <data name="RoadReflectionsDetail" xml:space="preserve">
+    <value>Сколько деталей мира будет
+                                            отражается в отражении дороги.</value>
+  </data>
+  <data name="RoadReflectionsResolutionScale" xml:space="preserve">
+    <value>Насколько резким будет отражение дороги.</value>
+  </data>
+  <data name="SafetyCheckCutscenes" xml:space="preserve">
+    <value>Включает зеркало заднего вида для всех видов камер автомобиля. Если отключено, оно будет видно только в режимах камеры бампера и капота.</value>
+  </data>
+  <data name="settingGameVideo" xml:space="preserve">
+    <value>Видео</value>
+  </data>
+  <data name="settingsGameGraphics" xml:space="preserve">
+    <value>Графика</value>
+  </data>
+  <data name="settingsGameOther" xml:space="preserve">
+    <value>Другое</value>
+  </data>
+  <data name="settingsLauncherDefault" xml:space="preserve">
+    <value>По умолчанию</value>
+  </data>
+  <data name="settingsLauncherLanguage" xml:space="preserve">
+    <value>Смена языка</value>
+  </data>
+  <data name="settingsLauncherPath" xml:space="preserve">
+    <value>Путь к игре</value>
+  </data>
+  <data name="settingsLauncherSave" xml:space="preserve">
+    <value>Сохранить изменения</value>
+  </data>
+  <data name="settingsLauncherStyle" xml:space="preserve">
+    <value>Стилизация лаунчера</value>
+  </data>
+  <data name="settingsLauncherTitle" xml:space="preserve">
+    <value>Здесь вы можете изменить настройки лаунчера</value>
+  </data>
+  <data name="sideAboutAuthors" xml:space="preserve">
+    <value>Об авторах</value>
+  </data>
+  <data name="sideExit" xml:space="preserve">
+    <value>Выход</value>
+  </data>
+  <data name="sideGameSettings" xml:space="preserve">
+    <value>Настройки игры</value>
+  </data>
+  <data name="sideLauncherSettings" xml:space="preserve">
+    <value>Настройки лаунчера</value>
+  </data>
+  <data name="sidePlay" xml:space="preserve">
+    <value>Играть</value>
+  </data>
+  <data name="sideSettings" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="sideUpdates" xml:space="preserve">
+    <value>Обновления</value>
+  </data>
+  <data name="TextureFiltering" xml:space="preserve">
+    <value>Определяет уровень детализации окружающей среды. Уменьшение качества убирает некоторые модели/пропы и снижает разрешение текстур.</value>
+  </data>
+  <data name="updateCancel" xml:space="preserve">
+    <value>Отменить</value>
+  </data>
+  <data name="updateLoad" xml:space="preserve">
+    <value>Скачать</value>
+  </data>
+  <data name="updateStop" xml:space="preserve">
+    <value>| |</value>
+  </data>
+  <data name="UserInterfaceSafeZone" xml:space="preserve">
+    <value>Безопасные зоны предотвращают появление пользовательского интерфейса в технически используемых, но невидимых для игрока областях, таких как край экрана.</value>
+  </data>
+  <data name="VSync" xml:space="preserve">
+    <value>V-Sync синхронизирует частоту кадров игры с частотой обновления вашего монитора, чтобы устранить разрыв изображения.</value>
+  </data>
+  <data name="WindowedMode" xml:space="preserve">
+    <value>Изменится, когда ваша игра запущена в полноэкранном режиме или оконном режиме.</value>
+  </data>
+  <data name="WorldLevelOfDetail" xml:space="preserve">
+    <value>Определяет уровень детализации для транспортных средств. В некоторых случаях это может убрать детали, такие как интерьер или световые блики.</value>
+  </data>
+</root>

@@ -1,0 +1,66 @@
+﻿<Page
+    x:Class="Launcher_NFS.View.PlayPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:gif="http://wpfanimatedgif.codeplex.com"
+    xmlns:language="clr-namespace:Launcher_NFS.Properties.Langs"
+    xmlns:local="clr-namespace:Launcher_NFS.View"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="PlayPage"
+    d:DesignHeight="500"
+    d:DesignWidth="720"
+    gif:ImageBehavior.AnimateInDesignMode="True"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ButtonStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="450" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Image
+            Grid.Row="0"
+            Grid.RowSpan="2"
+            Source="res/Backgrounds/background.png"
+            Stretch="Fill" />
+        <Image
+            Grid.RowSpan="2"
+            Width="600"
+            Height="274"
+            gif:ImageBehavior.AnimatedSource="Res\Backgrounds\Text.gif" />
+        <TextBlock
+            Name="InfoUpdateText"
+            Margin="60,0,270,0"
+            HorizontalAlignment="center"
+            VerticalAlignment="Bottom"
+            FontFamily="Res/Fonts/altedin1451mittelschrift.ttf#Alte DIN 1451 Mittelschrift"
+            FontSize="20"
+            Foreground="{DynamicResource TextColorSCB}"
+            Text="" />
+        <ProgressBar
+            x:Name="UpdateProgressBar"
+            Grid.Row="1"
+            Height="25"
+            Margin="60,0,270,0"
+            Background="{DynamicResource BackgroundProgressBarColorSCB}"
+            Foreground="{DynamicResource ForegroundProgressBarColorSCB}"
+            Visibility="Hidden" />
+        <Button
+            x:Name="btnPlay"
+            Grid.Row="1"
+            Width="170"
+            Height="45"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            Click="Button_Click"
+            Content="{x:Static language:Lang.play}"
+            Style="{DynamicResource PlayButton}" />
+    </Grid>
+</Page>

@@ -1,0 +1,77 @@
+﻿<Window
+    x:Class="Launcher_NFS.View.MessageWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:language="clr-namespace:Launcher_NFS.Properties.Langs"
+    xmlns:local="clr-namespace:Launcher_NFS.View"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MessageWindow"
+    Width="400"
+    Height="200"
+    AllowsTransparency="True"
+    Background="Transparent"
+    ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    mc:Ignorable="d">
+    <Grid>
+        <Border CornerRadius="15">
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientStop Offset="0" Color="{DynamicResource BackgroundGradientColorOne}" />
+                    <GradientStop Offset="1" Color="{DynamicResource BackgroundGradientColorTwo}" />
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40" />
+                    <RowDefinition />
+                    <RowDefinition Height="40" />
+                </Grid.RowDefinitions>
+                <!--  Верхний текст  -->
+                <Grid Grid.ColumnSpan="2">
+                    <Border
+                        Background="{DynamicResource TitleBackgroundColorSCB}"
+                        BorderBrush="{DynamicResource LineBorderColorSCB}"
+                        BorderThickness="0,0,0,2"
+                        Opacity="0.7">
+                        <Border.CornerRadius>
+                            <CornerRadius TopLeft="15" TopRight="15" />
+                        </Border.CornerRadius>
+                        <TextBlock
+                            x:Name="TitleText"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            FontFamily="Res/Fonts/NebulosaBlackItalic.otf#Nebulosa Black Italic"
+                            FontSize="20"
+                            Foreground="{DynamicResource TextTitleColorSCB}"
+                            Text="{x:Static language:Lang.changeLanguageTitle}" />
+                    </Border>
+                </Grid>
+
+                <TextBlock
+                    x:Name="TextMes"
+                    Grid.Row="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    FontFamily="Res/Fonts/altedin1451mittelschrift.ttf#Alte DIN 1451 Mittelschrift"
+                    FontSize="20"
+                    Foreground="{DynamicResource TextColorSCB}"
+                    Text="{x:Static language:Lang.changeLanguage}"
+                    TextWrapping="Wrap" />
+                <Button
+                    x:Name="BtnOk"
+                    Grid.Row="3"
+                    Grid.Column="0"
+                    Width="100"
+                    Height="30"
+                    HorizontalAlignment="Center"
+                    Content="Ok"
+                    FontSize="20"
+                    Foreground="{DynamicResource TextColorSCB}"
+                    Style="{DynamicResource SettingsButton}" />
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
