@@ -12,10 +12,10 @@
 ## Новости и обновления
 Следите за новостями и обновлениями на моём основном канале в Telegram: [Кодерские работы](https://t.me/CoderWorker).
 
-![Telegram Avatar](./images/CoderWorkerLogo.jpg)
+<img src="./images/CoderWorkerLogo.jpg" alt="Telegram Avatar" width="100" height="100">
 © 2024 Wixon aka CoderWorker. Все права защищены.
 
-
+# Xtreme Terrex Launcher
 ![Launcher Screenshot](./images/launcher2.png)
 
 ## About the Project
@@ -28,5 +28,5 @@ ss
 ## News and Updatessss
 Follow the news and updates on my main Telegram channel: [CoderWorker](https://t.me/CoderWorker).
 
-![Telegram Avatar](./images/CoderWorkerLogo.jpg)
+<img src="./images/CoderWorkerLogo.jpg" alt="Telegram Avatar" width="100" height="100" >
 © 2024 Wixon aka CoderWorker. All rights reserved.
