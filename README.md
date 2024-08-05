@@ -25,7 +25,7 @@ ss
 - Please note that the latest commit may not include all new features and updates.
 - Since this is not a release version, there is no executable file available yet.
 
-## News and Updatessss
+## News and Updates
 Follow the news and updates on my main Telegram channel: [CoderWorker](https://t.me/CoderWorker).
 
 <img src="./images/CoderWorkerLogo.jpg" alt="Telegram Avatar" width="100" height="100" >
