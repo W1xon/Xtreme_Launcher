@@ -10,7 +10,7 @@
 - Так как это не релизная версия, исполняемого файла пока нет.
 
 ## Новости и обновления
-Следите за новостями и обновлениями на моём основном канале в Telegram: [Кодерские работы](https://t.me/CoderWorker).
+Следите за новостями и обновлениями на моём основном канале в Telegram: [Кодерские работы](https://t.me/CoderW0rker).
 
 <img src="./images/CoderWorkerLogo.jpg" alt="Telegram Avatar" width="100" height="100">
 © 2024 Wixon aka CoderWorker. Все права защищены.
@@ -26,7 +26,7 @@ ss
 - Since this is not a release version, there is no executable file available yet.
 
 ## News and Updates
-Follow the news and updates on my main Telegram channel: [CoderWorker](https://t.me/CoderWorker).
+Follow the news and updates on my main Telegram channel: [CoderWorker](https://t.me/CoderW0rker).
 
 <img src="./images/CoderWorkerLogo.jpg" alt="Telegram Avatar" width="100" height="100" >
 © 2024 Wixon aka CoderWorker. All rights reserved.
