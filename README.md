@@ -1,9 +1,9 @@
-# Xtreme Terrex Launcher
+# Xtreme Launcher
 
 ![Launcher Screenshot](./images/launcher.png)
 
 ## О проекте
-**Xtreme Terrex Launcher** - это активно разрабатываемый лаунчер для модификации **Xtreme Terrex** по игре *Need for Speed: Most Wanted 2005 года*. Эта версия лаунчера не является финальной, и он будет постоянно дорабатываться и улучшаться.
+**Xtreme Launcher** - это активно разрабатываемый лаунчер для модификации **No Limits** по игре *Need for Speed: Most Wanted 2005 года*. Эта версия лаунчера не является финальной, и он будет постоянно дорабатываться и улучшаться.
 
 ## Важно
 - Обратите внимание, что последний коммит может не содержать все нововведения и обновления.
@@ -12,14 +12,14 @@
 ## Новости и обновления
 Следите за новостями и обновлениями на моём основном канале в Telegram: [Кодерские работы](https://t.me/CoderW0rker).
 
-<img src="./images/CoderWorkerLogo.jpg" alt="Telegram Avatar" width="100" height="100">
-© 2024 Wixon aka CoderWorker. Все права защищены.
+<img src="./images/CoderWorkerLogo.png" alt="Telegram Avatar" width="100" height="100">
+© 2025 Wixon aka CoderWorker. Все права защищены.
 
-# Xtreme Terrex Launcher
+# Xtreme Launcher
 ![Launcher Screenshot](./images/launcher2.png)
 
 ## About the Project
-**Xtreme Terrex Launcher** is an actively developed launcher for the **Xtreme Terrex** modification for the game *Need for Speed: Most Wanted 2005*. This version of the launcher is not final and will be continuously refined and improved.
+**Xtreme Launcher** is an actively developed launcher for the **No Limits** modification for the game *Need for Speed: Most Wanted 2005*. This version of the launcher is not final and will be continuously refined and improved.
 ss
 ## Important
 - Please note that the latest commit may not include all new features and updates.
@@ -28,5 +28,5 @@ ss
 ## News and Updates
 Follow the news and updates on my main Telegram channel: [CoderWorker](https://t.me/CoderW0rker).
 
-<img src="./images/CoderWorkerLogo.jpg" alt="Telegram Avatar" width="100" height="100" >
-© 2024 Wixon aka CoderWorker. All rights reserved.
+<img src="./images/CoderWorkerLogo.png" alt="Telegram Avatar" width="100" height="100" >
+© 2025 Wixon aka CoderWorker. All rights reserved.
